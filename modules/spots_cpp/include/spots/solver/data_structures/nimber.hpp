@@ -1,6 +1,7 @@
 #ifndef NIMBER_H
 #define NIMBER_H
 
+#include <cstdint>
 #include "spots/global.hpp"
 
 namespace spots
